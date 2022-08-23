@@ -1,8 +1,8 @@
 # Merhaba, ben Abdulkadir Özyurt!
 
 
-[![GitHub followers](https://img.shields.io/github/followers/abdulkadirozyurt?style=social)](https://github.com/abdulkadirozyurt?tab=followers)
-![GitHub stars](https://img.shields.io/github/stars/abdulkadirozyurt?style=social)
+
+
 ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=Profile%20views&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fabdulkadirozyurt.abdulkadirozyurt%2Freadme)
 
 ## Contact me
