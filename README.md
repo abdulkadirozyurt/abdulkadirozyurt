@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Java,Python and Selenium
+🔭 I’m currently working on Java, Python and Selenium
 <br>🌱 I’m currently learning Java,Python
 <br>💬 Ask me about PostgreSQL
  
