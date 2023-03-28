@@ -1,26 +1,9 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # 💫 About Me:
-🔭 I’m currently working on Python and Selenium<br>🤝 I’m looking for help with Data Science<br>🌱 I’m currently learning Python<br>💬 Ask me about PostgreSQL<br>⚡ Fun fact : I am a big fan of music and online games 
+🔭 I’m currently working on Python and Selenium
+<br>🤝 I’m looking for help with Data Science
+<br>🌱 I’m currently learning Python
+<br>💬 Ask me about PostgreSQL
+<br>⚡ Fun fact : I am a big fan of music and online games 
 
 
 ## 🌐 Socials:
