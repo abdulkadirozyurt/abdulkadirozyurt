@@ -5,6 +5,8 @@
 
 ![](https://komarev.com/ghpvc/?username=abdulkadirozyurt)
 
+![](https://komarev.com/ghpvc/?username=abdulkadirozyurt&base=1000)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abdulkadirozyurt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulkadirozyurt" height="30" width="40" /></a>
