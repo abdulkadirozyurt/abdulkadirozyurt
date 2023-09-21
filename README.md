@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abdulkadir</h1>
 <h3 align="center">I’m currently working on .NET</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulkadirozyurt&label=Profile%20views&color=0e75b6&style=flat" alt="abdulkadirozyurt" /> </p>
+
 
 ![](https://komarev.com/ghpvc/?username=abdulkadirozyurt)
 
-![](https://komarev.com/ghpvc/?username=abdulkadirozyurt&base=1000)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
