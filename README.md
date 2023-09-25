@@ -26,7 +26,7 @@
     <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
     </a>
-    <a>        
+    <a href="https://dotnet.microsoft.com/en-us/" >        
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet-core" width="40" height="40"/>          
     </a> 
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
