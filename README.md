@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdulkadir</h1>
 <h3 align="center">I’m currently working on .NET</h3>
 
-
-
 ![](https://komarev.com/ghpvc/?username=abdulkadirozyurt)
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,6 +15,15 @@
 <p align="left"> 
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
+    </a>
+    <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+    </a>
+    <a href="https://www.w3schools.com/react/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.w3schools.com/nodejs/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="react" width="40" height="40"/> 
     </a> 
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
