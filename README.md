@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdulkadir</h1>
-<h3 align="center">I’m currently working on .NET</h3>
+<!-- <h3 align="center">I’m currently working on .NET</h3> -->
 
 ![](https://komarev.com/ghpvc/?username=abdulkadirozyurt)
 
