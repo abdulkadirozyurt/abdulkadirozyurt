@@ -16,9 +16,9 @@
 
 ## GitHub Stats
 <div style="display:flex;gap:12px;align-items:center;flex-wrap:wrap">
-	<img src="https://github-readme-stats-abdulkadirozyurt.vercel.app/api/top-langs/?username=abdulkadirozyurt&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=donut" alt="Top Languages (dark)" style="height:160px;object-fit:contain" />
-	<img src="https://github-readme-stats-abdulkadirozyurt.vercel.app/api?username=abdulkadirozyurt&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true" alt="Profile Stats" style="height:160px;object-fit:contain" />
-	<img src="https://nirzak-streak-stats.vercel.app/?user=abdulkadirozyurt&theme=dark&hide_border=true" alt="Streak" style="height:160px;object-fit:contain" />
+	<img src="https://github-readme-stats-abdulkadirozyurt.vercel.app/api/top-langs/?username=abdulkadirozyurt&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=donut" alt="Top Languages (dark)" style="height:220px;object-fit:contain" />
+	<img src="https://github-readme-stats-abdulkadirozyurt.vercel.app/api?username=abdulkadirozyurt&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true" alt="Profile Stats" style="height:220px;object-fit:contain" />
+	<img src="https://nirzak-streak-stats.vercel.app/?user=abdulkadirozyurt&theme=dark&hide_border=true" alt="Streak" style="height:220px;object-fit:contain" />
 </div>
 
 ---
