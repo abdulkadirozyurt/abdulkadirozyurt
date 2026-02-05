@@ -15,15 +15,12 @@
 | **Tools** | ![](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
 
 ## GitHub Stats
-
-![Streak](https://nirzak-streak-stats.vercel.app/?user=abdulkadirozyurt&theme=dark&hide_border=false) \
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=abdulkadirozyurt&show_icons=true&locale=en&layout=compact)
-![Profile Stats](https://github-readme-stats.vercel.app/api?username=abdulkadirozyurt&show_icons=true&locale=en)
-![Commit Activity](https://github-readme-stats.vercel.app/api?username=abdulkadirozyurt&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![Top Languages (dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulkadirozyurt&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div style="display:flex;gap:12px;align-items:center;flex-wrap:wrap">
+	<img src="https://github-readme-stats-abdulkadirozyurt.vercel.app/api/top-langs/?username=abdulkadirozyurt&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=donut" alt="Top Languages (dark)" style="height:160px;object-fit:contain" />
+	<img src="https://github-readme-stats-abdulkadirozyurt.vercel.app/api?username=abdulkadirozyurt&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true" alt="Profile Stats" style="height:160px;object-fit:contain" />
+	<img src="https://nirzak-streak-stats.vercel.app/?user=abdulkadirozyurt&theme=dark&hide_border=true" alt="Streak" style="height:160px;object-fit:contain" />
+</div>
 
 ---
-
-<!-- [![Visitor Count](https://visitcount.itsvg.in/api?id=abdulkadirozyurt&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abdulkadirozyurt)
